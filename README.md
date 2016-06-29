@@ -1,4 +1,6 @@
-# This folder contains the R code for conducting PCA analysis for housing vacancy project.
+# PCA analysis for housing vacancy project
+
+This folder contains the R code for conducting PCA analysis for housing vacancy project.
 
 Author: Yan Jiang
 
